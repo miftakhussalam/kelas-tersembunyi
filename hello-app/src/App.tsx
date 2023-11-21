@@ -4,19 +4,7 @@ import "./App.css";
 
 function App() {
   return (
-    <div
-      className="App"
-      // style={{
-      //   display: "flex",
-      //   justifyContent: "center",
-      //   alignItems: "center",
-      //   backgroundColor: '#282c34',
-      //   padding: '10px',
-      //   fontSize: '22px',
-      //   fontWeight: '900',
-      //   color: 'antiquewhite'
-      // }}
-    >
+    <div className="flex items-center justify-center p-10 bg-slate-400">
       hello world!
     </div>
   );
